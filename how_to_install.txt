@@ -2,8 +2,8 @@
 
 
 inital setup
-1) change the directory for --user-data-dir in "chromeforbard" file
-2) keep the chromeforbard and bardcli file in user/local/bin so that it can be accessed from anywhere
+1) change the directory path for --user-data-dir in "chromeforbard" file
+2) keep the chromeforbard and bardcli file in user/local/bin so that it can be accessed from anywhere , you can use : "mv chromeforbard path"
 3) keep the .py file in your home directory
 4) "pip install -r requirements.txt" use this command to downlaod all necessary libarary
 5) run the "chromeforbard" command once for creating setup
