@@ -1,18 +1,19 @@
 ***) must have python installed in your system
 
-
-inital setup
+//////////inital setup
 1) change the directory path for --user-data-dir in "chromeforbard" file
-2) keep the chromeforbard and bardcli file in user/local/bin so that it can be accessed from anywhere , you can use : "mv chromeforbard path"
-3) keep the .py file in your home directory
+2) write the file path of bardcli.py file in 'bardcli' file
+3) keep the chromeforbard and bardcli file in user/local/bin so that it can be accessed from anywhere , you can use : "mv chromeforbard <your path>"
 4) "pip install -r requirements.txt" use this command to downlaod all necessary libarary
-5) run the "chromeforbard" command once for creating setup
-6) minimize the opened chrome
-7) run the command (bardcli "your query")
-8 you are done
 
 
-daily setup (when ever you restart your system)
+/////////how to use//////////
+run -> 'chromeforbard' for creating a chrome instance . minimize it when it get opened
+run -> 'bardcli new <query>' for running your query in new model
+run -> 'bardcli new' for creating new model'
+run -> 'bardcli <query>' your will get the result from your trained model
+
+////////daily setup (when ever you restart your system)
 run chromeforbard
 run bardcli "your query"
 
