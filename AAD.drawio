@@ -34,7 +34,13 @@
           <mxGeometry x="80" y="320" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="6drn_1PrEdPvGgV4QqoR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.468;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6drn_1PrEdPvGgV4QqoR-5" target="6drn_1PrEdPvGgV4QqoR-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="415" y="410" />
+              <mxPoint x="415" y="170" />
+              <mxPoint x="571" y="170" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="6drn_1PrEdPvGgV4QqoR-10" value="start/scan/&lt;br&gt;scan this page/ rescan&lt;br&gt;etc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="930" width="120" height="60" as="geometry" />
