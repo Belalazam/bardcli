@@ -189,7 +189,7 @@
         <mxCell id="6drn_1PrEdPvGgV4QqoR-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.468;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6drn_1PrEdPvGgV4QqoR-59" target="6drn_1PrEdPvGgV4QqoR-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6drn_1PrEdPvGgV4QqoR-62" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;executors&lt;/h1&gt;&lt;div&gt;use-selenium-driver (localhost)&lt;br&gt;ask-user (localhost)&lt;/div&gt;&lt;div&gt;user-detail-context (localhost)&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6drn_1PrEdPvGgV4QqoR-62" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;executors&lt;/h1&gt;&lt;div&gt;use_selenium_driver (localhost)&lt;br&gt;ask_user (localhost)&lt;/div&gt;&lt;div&gt;user_detail_context (localhost)&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="500" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="6drn_1PrEdPvGgV4QqoR-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.803;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6drn_1PrEdPvGgV4QqoR-4" target="6drn_1PrEdPvGgV4QqoR-1">
@@ -205,6 +205,9 @@
         </mxCell>
         <mxCell id="6drn_1PrEdPvGgV4QqoR-66" value="{&lt;br&gt;&quot;function_to_execute&quot; : &quot;&quot;,&lt;div&gt;&quot;python_codes&quot;: []&amp;nbsp;&lt;/div&gt;&lt;div&gt;&quot;ask_user_string&quot; : &quot;&#39;,&lt;br&gt;&quot;question_from_user&quot;: []&lt;br&gt;&lt;div&gt;}&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="600" width="240" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="6drn_1PrEdPvGgV4QqoR-68" value="prompt: you are automatic job application filler&lt;br&gt;you have access to various functions like&lt;br&gt;use_sele" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="600" width="260" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
